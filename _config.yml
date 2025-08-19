@@ -86,6 +86,8 @@ publication_category:
     title: 'Patents'
   manuscripts:
     title: 'Publications'
+  posters:
+    title: 'Posters'
   conferences:
     title: 'Conference Papers'
 
