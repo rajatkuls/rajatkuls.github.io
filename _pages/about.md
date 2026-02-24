@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I’m an **ML generalist with a specialization in audio and speech**, currently an Applied Scientist on the AGI Foundations team at Amazon. I’m a core contributor to the Nova 2 family of multimodal LLMs, where I focus on **multimodal post-training and evaluation** for real-time production use.
+I’m an ML generalist with a specialization in audio and speech, currently an Applied Scientist on the AGI Foundations team at Amazon. I’m a core contributor to the Nova 2 family of multimodal LLMs, where I focus on **multimodal post-training and evaluation** for real-time production use.
 
 My work is centered on making AI usable in the real world: **dependable** in production, **aligned** with user expectations, and **responsive** in real-time. I’ve led spoken interaction quality work, shipped product-aligned model improvements, and built evaluation, benchmarking, and release-gating pipelines that enable faster iteration without regressions.
 
